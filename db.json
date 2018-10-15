@@ -1,0 +1,156 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "FirstName": "Poshitha",
+      "LastName": "Rani",
+      "Position": "Sr Doctor",
+      "EmpCode": "101",
+      "Office": "Bangalore",
+      "Image": "src/assets/img/DSC_7399.JPG"
+    },
+    {
+      "id": 2,
+      "FirstName": "Hitesh",
+      "LastName": "Kumar",
+      "Position": "sr engineer",
+      "EmpCode": "105",
+      "Office": "Bangalore",
+      "Image": "src/assets/img/IMG-20180707-WA0002.jpg"
+    },
+    {
+      "id": 3,
+      "FirstName": "Divyashree",
+      "LastName": "S",
+      "Position": "Housing Board",
+      "EmpCode": "103",
+      "Office": "Bangalore",
+      "Image": "src/assets/img/Divya.png"
+    },
+    {
+      "id": 4,
+      "FirstName": "Manju",
+      "LastName": "Nath",
+      "Position": "Sr Manager",
+      "EmpCode": "104",
+      "Office": "Bangalore",
+      "Image": "src/assets/img/photo1.jpg"
+    },
+    {
+      "id": 5,
+      "FirstName": "ram",
+      "LastName": "murthy",
+      "Position": "sr engineer",
+      "EmpCode": "105",
+      "Office": "vpura",
+      "Image": "src/assets/img/Divya.png"
+    },
+    {
+      "id": 6,
+      "FirstName": "ravindranath",
+      "LastName": "kumar",
+      "Position": "Sr Developer",
+      "EmpCode": "106",
+      "Office": "hyderabad",
+      "Image": "src/assets/img/DSC_7399.JPG"
+    },
+    {
+      "id": 8,
+      "FirstName": "Hitesh",
+      "LastName": "kumar12",
+      "Position": "sr engineer",
+      "EmpCode": "107",
+      "Office": "zpura",
+      "Image": "src/assets/img/photo1.jpg"
+    },
+    {
+      "id": 9,
+      "FirstName": "Rithes",
+      "LastName": "kumar",
+      "Position": "Sr Builder",
+      "EmpCode": "108",
+      "Office": "chennai",
+      "Image": "src/assets/img/photo1.jpg"
+    },
+    {
+      "id": 10,
+      "FirstName": "dinesh",
+      "LastName": "konanki",
+      "Position": "Sr Developer",
+      "EmpCode": "109",
+      "Office": "nellur",
+      "Image": "src/assets/img/flower.jpg"
+    },
+    {
+      "id": 11,
+      "FirstName": "manju",
+      "LastName": "nath",
+      "Position": "Sr Doctor",
+      "EmpCode": "sdasd",
+      "Office": "Bangalore",
+      "Image": "src/assets/img/PAN CARD12.jpg"
+    },
+    {
+      "id": 12,
+      "FirstName": "Ram",
+      "LastName": "Murthy",
+      "Position": "Sr Builder",
+      "EmpCode": "110",
+      "Office": "Jigani",
+      "Image": "src/assets/img/PF.png"
+    },
+    {
+      "id": 13,
+      "FirstName": "Harha",
+      "LastName": "U",
+      "Position": "sr engineer",
+      "EmpCode": "156",
+      "Office": "tumkur",
+      "Image": "src/assets/img/TUMKUR VEERASHAIVA.png"
+    },
+    {
+      "id": 14,
+      "FirstName": "Ram Kumar",
+      "LastName": "nath",
+      "Position": "Sr Developer",
+      "EmpCode": "125",
+      "Office": "manyatha",
+      "Image": "src/assets/img/CONNECTM.png"
+    },
+    {
+      "id": 16,
+      "FirstName": "Naveen",
+      "LastName": "Kumar",
+      "Position": "Sr Developer",
+      "EmpCode": "1116",
+      "Office": "Hebbal",
+      "Image": "src/assets/img/apple.jpg"
+    },
+    {
+      "id": 17,
+      "FirstName": "Mani",
+      "LastName": "Ranjan",
+      "Position": "sr engineer",
+      "EmpCode": "869",
+      "Office": "Blore",
+      "Image": "src/assets/img/apple.jpg"
+    }
+  ]
+}
